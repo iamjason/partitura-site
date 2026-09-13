@@ -17,6 +17,7 @@ The audio engine is included. You do not need to install Python or run a setup c
 1. Open an audio file or record with your microphone. Allow microphone access when recording.
 2. Separate the recording into drums, guitar, bass, piano, vocals, and other accompaniment.
 3. Choose an instrument, listen to its isolated audio, and explore its notes.
+   Sheet music, tablature, and note timelines highlight the notes at the playhead, including whole chords and held notes. Pause or seek to inspect a passage, or slow playback down to practice.
 4. Export isolated WAV audio, MIDI notes, or a MusicXML score for your music software.
 
 Recordings can be up to 10 minutes and 120 MB. Automatic notation is a draft: check pitches, rhythm, and bar alignment against the audio. The starting meter assumes 4/4. Drum hits use approximate kick, snare, and hi-hat detection, and guitar and piano separation may contain sound from other instruments.
