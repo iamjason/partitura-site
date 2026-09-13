@@ -10,7 +10,7 @@ Get the ZIP from [the latest release](https://github.com/iamjason/partitura-site
 
 Requires **macOS 14 or later and an Apple silicon Mac**. Intel Macs are not supported by this release. Published Mac builds are signed with Developer ID and notarized by Apple; each release includes a SHA-256 checksum.
 
-The audio engine is included. You do not need to install Python or run a setup command. First use may download model weights; allow several GB of free space for the models and your recordings. Longer songs can take several minutes to process.
+The audio engine is included. You do not need to install Python or run a setup command. Model weights are included for offline processing; allow several GB of free space for the models and your recordings. Longer songs can take several minutes to process.
 
 ## From a recording to your part
 
@@ -23,7 +23,7 @@ Recordings can be up to 10 minutes and 120 MB. Automatic notation is a draft: ch
 
 ## Your recordings stay with you
 
-Instrument separation and transcription run on your Mac. Recordings and results are stored locally, and audio is not uploaded to a cloud transcription service. Model downloads need an internet connection on first use.
+Instrument separation and transcription run on your Mac. Recordings and results are stored locally, and audio is not uploaded to a cloud transcription service. The bundled models work offline.
 
 ## iPhone and iPad
 
