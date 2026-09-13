@@ -1,0 +1,11 @@
+{
+  "$schema": "https://iamjason.github.io/hyrule-compendium-site/schema/hyrule.schema.json",
+  "name": "Partitura",
+  "command": "partitura",
+  "tagline": "Find your part in a recording with instrument separation, practice playback, and editable notation.",
+  "status": "experimental",
+  "language": "Swift",
+  "icon": "https://iamjason.github.io/partitura-site/assets/icon.png",
+  "platforms": ["macos"],
+  "docs": "https://iamjason.github.io/partitura-site/"
+}
