@@ -35,3 +35,7 @@ To pair a development build, keep both devices on the same private network and u
 There is no public TestFlight download yet. The public download in this repository is the Mac app.
 
 [Website](https://iamjason.github.io/partitura-site/) · [Release history](https://github.com/iamjason/partitura-site/releases) · [Hyrule Compendium](https://iamjason.github.io/hyrule-compendium-site/tools/partitura/)
+
+## Usage statistics
+
+This site records anonymous usage statistics: page views, download clicks and a daily visitor count derived from a hash of your IP address and browser. No cookies, no personal data, nothing stored in your browser. The app records one anonymous launch event per start. The collector is [Gossip Stone](https://github.com/iamjason/gossip-stone-swift#what-is-sent).
